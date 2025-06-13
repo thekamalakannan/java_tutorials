@@ -1,5 +1,11 @@
 package GenericExamples;
 
+/**
+ * Author: Kamalakannan KUPPUSAMY
+ * Date: 14/06/2025
+ */
+
+
 public class GenericPrinter <T> {
 
     T thingsToPrint;
